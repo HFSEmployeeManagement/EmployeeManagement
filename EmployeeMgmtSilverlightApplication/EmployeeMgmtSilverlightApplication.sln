@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMgmtSilverlightApplication", "EmployeeMgmtSilverlightApplication\EmployeeMgmtSilverlightApplication.csproj", "{A0F0B9AE-AAB9-4F40-8E78-453FABD9FAF0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D7E99900-88C5-44D7-B78B-E361CD686286} = {D7E99900-88C5-44D7-B78B-E361CD686286}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMgmtSilverlightApplication.Web", "EmployeeMgmtSilverlightApplication.Web\EmployeeMgmtSilverlightApplication.Web.csproj", "{D7E99900-88C5-44D7-B78B-E361CD686286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeBusinesslayer", "..\..\Visual Studio 2012\Projects\Employee3Tier\EmployeeBusinesslayer\EmployeeBusinesslayer.csproj", "{DDA205D9-569C-4B34-BCE7-E56277999333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDatalayer", "..\..\Visual Studio 2012\Projects\Employee3Tier\EmployeeDatalayer\EmployeeDatalayer.csproj", "{74317612-B2ED-4FCE-AF9B-D8995F7EFE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeEntity", "..\..\Visual Studio 2012\Projects\Employee3Tier\EmployeeEntity\EmployeeEntity.csproj", "{95AAB20F-7BD7-45D0-B6DA-CA2154D1DCBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F0B9AE-AAB9-4F40-8E78-453FABD9FAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F0B9AE-AAB9-4F40-8E78-453FABD9FAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F0B9AE-AAB9-4F40-8E78-453FABD9FAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F0B9AE-AAB9-4F40-8E78-453FABD9FAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E99900-88C5-44D7-B78B-E361CD686286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E99900-88C5-44D7-B78B-E361CD686286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E99900-88C5-44D7-B78B-E361CD686286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E99900-88C5-44D7-B78B-E361CD686286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA205D9-569C-4B34-BCE7-E56277999333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA205D9-569C-4B34-BCE7-E56277999333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA205D9-569C-4B34-BCE7-E56277999333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA205D9-569C-4B34-BCE7-E56277999333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74317612-B2ED-4FCE-AF9B-D8995F7EFE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74317612-B2ED-4FCE-AF9B-D8995F7EFE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74317612-B2ED-4FCE-AF9B-D8995F7EFE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74317612-B2ED-4FCE-AF9B-D8995F7EFE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AAB20F-7BD7-45D0-B6DA-CA2154D1DCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AAB20F-7BD7-45D0-B6DA-CA2154D1DCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AAB20F-7BD7-45D0-B6DA-CA2154D1DCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AAB20F-7BD7-45D0-B6DA-CA2154D1DCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
