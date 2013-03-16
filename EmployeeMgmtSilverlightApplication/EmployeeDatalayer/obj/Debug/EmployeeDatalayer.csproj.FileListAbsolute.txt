@@ -1,0 +1,7 @@
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeDatalayer\bin\Debug\EmployeeDatalayer.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeDatalayer\bin\Debug\EmployeeDatalayer.pdb
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeDatalayer\obj\Debug\EmployeeDatalayer.csprojResolveAssemblyReference.cache
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeDatalayer\obj\Debug\EmployeeDatalayer.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeDatalayer\obj\Debug\EmployeeDatalayer.pdb
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeDatalayer\bin\Debug\EmployeeEntity.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeDatalayer\bin\Debug\EmployeeEntity.pdb

@@ -1,0 +1,5 @@
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeEntity\bin\Debug\EmployeeEntity.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeEntity\bin\Debug\EmployeeEntity.pdb
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeEntity\obj\Debug\EmployeeEntity.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeEntity\obj\Debug\EmployeeEntity.pdb
+C:\Users\TR0005\Documents\Visual Studio 2012\Projects\Employee3Tier\EmployeeEntity\obj\Debug\EmployeeEntity.csprojResolveAssemblyReference.cache
