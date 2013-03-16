@@ -1,0 +1,2 @@
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeSilverlight
+Generated_Code\Employee3Tier.g.cs

@@ -1,0 +1,11 @@
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\bin\WcfEmployee.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\bin\WcfEmployee.pdb
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\obj\Debug\WcfEmployee.csprojResolveAssemblyReference.cache
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\obj\Debug\WcfEmployee.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\obj\Debug\WcfEmployee.pdb
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\bin\EmployeeBusinesslayer.dll
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\bin\EmployeeDatalayer.dll
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\bin\EmployeeEntity.dll
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\bin\EmployeeBusinesslayer.pdb
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\bin\EmployeeDatalayer.pdb
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\WcfEmployee\bin\EmployeeEntity.pdb

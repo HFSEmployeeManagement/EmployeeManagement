@@ -1,0 +1,11 @@
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\Bin\Debug\EmployeeMGMTSilverApplication.dll
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\Bin\Debug\EmployeeMGMTSilverApplication.pdb
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\Bin\Debug\AppManifest.xaml
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\Bin\Debug\EmployeeMGMTSilverApplication.xap
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\Bin\Debug\EmployeeMGMTSilverApplicationTestPage.html
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\obj\Debug\App.g.cs
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\obj\Debug\MainPage.g.cs
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\obj\Debug\EmployeeMGMTSilverApplication.g.resources
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\obj\Debug\EmployeeMGMTSilverApplication.dll
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\obj\Debug\EmployeeMGMTSilverApplication.pdb
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeMGMTSilverApplication\obj\Debug\XapCacheFile.xml

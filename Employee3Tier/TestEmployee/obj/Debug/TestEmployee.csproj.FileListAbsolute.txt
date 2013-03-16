@@ -1,0 +1,11 @@
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\bin\Debug\TestEmployee.dll
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\bin\Debug\TestEmployee.pdb
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\bin\Debug\EmployeeBusinesslayer.dll
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\bin\Debug\EmployeeEntity.dll
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\bin\Debug\EmployeeDatalayer.dll
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\bin\Debug\EmployeeBusinesslayer.pdb
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\bin\Debug\EmployeeEntity.pdb
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\bin\Debug\EmployeeDatalayer.pdb
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\obj\Debug\TestEmployee.csprojResolveAssemblyReference.cache
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\obj\Debug\TestEmployee.dll
+C:\Users\TR0005\documents\visual studio 2012\Projects\Employee3Tier\TestEmployee\obj\Debug\TestEmployee.pdb

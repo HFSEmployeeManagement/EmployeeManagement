@@ -1,0 +1,11 @@
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\obj\Debug\EmployeeWCF.csprojResolveAssemblyReference.cache
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\bin\EmployeeWCF.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\bin\EmployeeWCF.pdb
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\bin\EmployeeBusinesslayer.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\bin\EmployeeEntity.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\bin\EmployeeDatalayer.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\bin\EmployeeBusinesslayer.pdb
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\bin\EmployeeEntity.pdb
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\bin\EmployeeDatalayer.pdb
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\obj\Debug\EmployeeWCF.dll
+c:\users\tr0005\documents\visual studio 2012\Projects\Employee3Tier\EmployeeWCF\obj\Debug\EmployeeWCF.pdb
