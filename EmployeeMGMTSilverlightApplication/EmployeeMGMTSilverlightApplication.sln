@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMGMTSilverlightApplication", "EmployeeMGMTSilverlightApplication\EmployeeMGMTSilverlightApplication.csproj", "{F9C30FFB-491B-48A0-B8BF-E548492BAA62}"
+	ProjectSection(ProjectDependencies) = postProject
+		{78CAC5C1-7FEF-49AE-81CD-7D8C3F966BAF} = {78CAC5C1-7FEF-49AE-81CD-7D8C3F966BAF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMGMTSilverlightApplication.Web", "EmployeeMGMTSilverlightApplication.Web\EmployeeMGMTSilverlightApplication.Web.csproj", "{78CAC5C1-7FEF-49AE-81CD-7D8C3F966BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{D5480868-53CC-42AA-B7E1-FCA0E93B05D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeEntity", "EmployeeEntity\EmployeeEntity.csproj", "{2A4FE02A-55E0-4F72-80F7-B367310025F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDatalayer", "EmployeeDatalayer\EmployeeDatalayer.csproj", "{29459A06-884E-4F75-98F3-148049F0FD0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C30FFB-491B-48A0-B8BF-E548492BAA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C30FFB-491B-48A0-B8BF-E548492BAA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C30FFB-491B-48A0-B8BF-E548492BAA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C30FFB-491B-48A0-B8BF-E548492BAA62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CAC5C1-7FEF-49AE-81CD-7D8C3F966BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CAC5C1-7FEF-49AE-81CD-7D8C3F966BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CAC5C1-7FEF-49AE-81CD-7D8C3F966BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CAC5C1-7FEF-49AE-81CD-7D8C3F966BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5480868-53CC-42AA-B7E1-FCA0E93B05D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5480868-53CC-42AA-B7E1-FCA0E93B05D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5480868-53CC-42AA-B7E1-FCA0E93B05D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5480868-53CC-42AA-B7E1-FCA0E93B05D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4FE02A-55E0-4F72-80F7-B367310025F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4FE02A-55E0-4F72-80F7-B367310025F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4FE02A-55E0-4F72-80F7-B367310025F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4FE02A-55E0-4F72-80F7-B367310025F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29459A06-884E-4F75-98F3-148049F0FD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29459A06-884E-4F75-98F3-148049F0FD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29459A06-884E-4F75-98F3-148049F0FD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29459A06-884E-4F75-98F3-148049F0FD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

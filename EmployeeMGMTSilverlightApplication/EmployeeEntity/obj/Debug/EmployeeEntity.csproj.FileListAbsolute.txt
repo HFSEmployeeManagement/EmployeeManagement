@@ -1,0 +1,5 @@
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\EmployeeEntity\bin\Debug\EmployeeEntity.dll
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\EmployeeEntity\bin\Debug\EmployeeEntity.pdb
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\EmployeeEntity\obj\Debug\EmployeeEntity.csprojResolveAssemblyReference.cache
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\EmployeeEntity\obj\Debug\EmployeeEntity.dll
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\EmployeeEntity\obj\Debug\EmployeeEntity.pdb

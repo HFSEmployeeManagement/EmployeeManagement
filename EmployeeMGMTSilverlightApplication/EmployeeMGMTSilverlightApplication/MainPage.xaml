@@ -1,0 +1,28 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk" x:Class="EmployeeMGMTSilverlightApplication.MainPage"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Button x:Name="btnselsct" Content="Select" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" RenderTransformOrigin="2.747,11.045" Margin="295,259,0,0" Click="btnselsct_Click"/>
+
+        <sdk:DataGrid x:Name="EmpGrid" HorizontalAlignment="Left" Height="184" VerticalAlignment="Top" Width="140" Margin="250,45,0,0"/>
+        <TextBox x:Name="txtid" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="115,45,0,0"/>
+        <TextBox x:Name="txtfname" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="115,83,0,0"/>
+        <TextBox x:Name="txtlname" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="115,122,0,0"/>
+        <TextBox x:Name="txtbirth" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="115,161,0,0"/>
+        <TextBox x:Name="txtsex" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="115,206,0,0"/>
+        <sdk:Label x:Name="lblid" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="120" Margin="10,45,0,0" Content="Employee Id"/>
+        <sdk:Label x:Name="lblfname" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="120" Margin="10,83,0,0" Content="First Name"/>
+        <sdk:Label x:Name="lbllname" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="120" Margin="10,117,0,0" Content="Last Name"/>
+        <sdk:Label x:Name="lblbirth" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.375,6.036" Margin="10,156,0,0" Content="Birth Date"/>
+        <sdk:Label x:Name="txtsex1" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="120" Margin="10,206,0,0" Content="Sex"/>
+        <Button x:Name="btnsave" Content="Save" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="129,259,0,0" Click="btnsave_Click"/>
+        <TextBlock x:Name="txtblock" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Margin="129,10,0,0"/>
+
+    </Grid>
+</UserControl>

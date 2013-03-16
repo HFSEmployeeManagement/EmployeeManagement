@@ -1,0 +1,9 @@
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\BusinessLayer\bin\Debug\EmployeeDatalayer.dll
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\BusinessLayer\bin\Debug\EmployeeEntity.dll
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\BusinessLayer\bin\Debug\EmployeeDatalayer.pdb
+C:\Users\TR0005\Documents\devp\EmployeeMGMTSilverlightApplication\BusinessLayer\bin\Debug\EmployeeEntity.pdb
